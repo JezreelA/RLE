@@ -17,7 +17,7 @@ public class RunLengthEncoding {
 
             // Print character and its count
             System.out.print(userString.charAt(i));
-            System.out.print(count);
+            System.out.print(count+"-");
         }
     }
 
